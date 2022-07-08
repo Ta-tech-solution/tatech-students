@@ -2,3 +2,9 @@
 # This is to capture the different steps to which 
 # i can get git working on my ubuntu server using vscode 
 # as my favourite text editor
+
+# first command is to install git on ubuntu
+
+sudo apt-get update
+
+sudo apt-get install git 
