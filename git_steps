@@ -3,5 +3,21 @@ downloading and installing git package on server (eg. ubuntu,centos ...)
 sending email addresses used in creating account for network config 
 getting repos invitation link from senior admin
 sending ssh public keys for network config
-cloning repos link on terminal
-create a principal repos
+create a principal repos by DBA Lead
+cloning repos link on terminal (see line 8)
+$ git clone git@github.com:Ta-tech-solution/tatech-students.git
+cd into the clone repo (see line 10)
+$ cd tatech-students (main branch)
+Get Main the latest update on terminal (see line 12)
+$ git pull
+Create a local branch on terminal (see line 14)
+$ git checkout -b <local branch_name> this will create ur local branch and switch you to that local.
+To verify if you are in the local branch on the terminal (see line 16)
+$ git status
+In your local, create a file on terminal (see line 18 for the command)
+$ touch file_name
+When file is created, do git add command (see line 20)
+$ git add file_name
+
+
+
