@@ -16,8 +16,7 @@ To verify if you are in the local branch on the terminal (see line 16)
 $ git status
 In your local, create a file on terminal (see line 18 for the command)
 $ touch file_name
-When file is created, do git add command (see line 20)
-$ git add file_name
+
 
 
 
