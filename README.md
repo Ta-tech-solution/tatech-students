@@ -1,1 +1,0 @@
-# tatech-postgres-errors-solutions
