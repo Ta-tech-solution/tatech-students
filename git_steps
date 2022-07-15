@@ -19,7 +19,7 @@ $ touch file_name
 When file is created, do git add command (see line 20)
 $ git add file_name.
 Then commit the file, do git commit command (see line 22)
-$ git commit -m "a brief intro of what u have done"
+$ git commit -m "a brief intro of what u have done".
 
 
 
