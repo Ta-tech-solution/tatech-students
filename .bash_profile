@@ -54,4 +54,4 @@ echo " "
 echo " "
 echo "Running postgreSQL version:"
 echo "${PGVERSION}"
-                                                # created_by : Any Lobason
+                                                # created_by : Ta-tech Solutions
